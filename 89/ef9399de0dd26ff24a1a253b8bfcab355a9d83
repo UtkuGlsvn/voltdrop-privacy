@@ -1,0 +1,19 @@
+index.html
+  s_054d4de8e04388::t_beb91680c7d917 1-132
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "89ef9399de0dd26ff24a1a253b8bfcab355a9d83",
+  "prompts": {},
+  "sessions": {
+    "s_054d4de8e04388": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "cc868abf-4ded-4be0-8206-fb6a2d685aec",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "utku glsvn <utku.glsvn@gmail.com>"
+    }
+  }
+}
